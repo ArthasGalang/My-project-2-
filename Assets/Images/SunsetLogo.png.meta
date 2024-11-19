@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: bc4e8157e97d84443b78841ef47bdbd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9203354497160665542
+    second: SunsetLogo_0
+  - first:
+      213: -3421529817544919147
+    second: SunsetLogo_1
+  - first:
+      213: 95708371450476829
+    second: SunsetLogo_2
+  - first:
+      213: 170442357537519470
+    second: SunsetLogo_3
+  - first:
+      213: -8154272133964501013
+    second: SunsetLogo_4
+  - first:
+      213: 1425787147754739644
+    second: SunsetLogo_5
+  - first:
+      213: 4705988966767740306
+    second: SunsetLogo_6
+  - first:
+      213: -4160756014438789330
+    second: SunsetLogo_7
+  - first:
+      213: 8185107905501960224
+    second: SunsetLogo_8
+  - first:
+      213: -8061154212706472544
+    second: SunsetLogo_9
+  - first:
+      213: -4100912115615929077
+    second: SunsetLogo_10
+  - first:
+      213: -1040586521347160677
+    second: SunsetLogo_11
+  - first:
+      213: -7142614266555399055
+    second: SunsetLogo_12
+  - first:
+      213: 1181493669664161539
+    second: SunsetLogo_13
+  - first:
+      213: 2019259508879155133
+    second: SunsetLogo_14
+  - first:
+      213: -2217012203210743227
+    second: SunsetLogo_15
+  - first:
+      213: 589310618318072205
+    second: SunsetLogo_16
+  - first:
+      213: 5951804212215050311
+    second: SunsetLogo_17
+  - first:
+      213: 4974131518160237654
+    second: SunsetLogo_18
+  - first:
+      213: -4063673207361710953
+    second: SunsetLogo_19
+  - first:
+      213: -5368818953463147297
+    second: SunsetLogo_20
+  - first:
+      213: 8515487269696570964
+    second: SunsetLogo_21
+  - first:
+      213: 876779777661937722
+    second: SunsetLogo_22
+  - first:
+      213: 1087188593608831636
+    second: SunsetLogo_23
+  - first:
+      213: -4308191214717770265
+    second: SunsetLogo_24
+  - first:
+      213: -2982082258251489082
+    second: SunsetLogo_25
+  - first:
+      213: 5601681876208306868
+    second: SunsetLogo_26
+  - first:
+      213: -3701123933237760774
+    second: SunsetLogo_27
+  - first:
+      213: 1797246803642304527
+    second: SunsetLogo_28
+  - first:
+      213: 5216137412431300781
+    second: SunsetLogo_29
+  - first:
+      213: 8597371259319077297
+    second: SunsetLogo_30
+  - first:
+      213: 1278352057821677676
+    second: SunsetLogo_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SunsetLogo_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 280
+        width: 414
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36aeb6a8dd174080800000000000000
+      internalID: -9203354497160665542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 388
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597f3dc42c84480d0800000000000000
+      internalID: -3421529817544919147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 350
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19365ab146045100800000000000000
+      internalID: 95708371450476829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6734bfcb688d5200800000000000000
+      internalID: 170442357537519470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 315
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befed2582b436de80800000000000000
+      internalID: -8154272133964501013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_5
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 315
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71d335bd969c310800000000000000
+      internalID: 1425787147754739644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 280
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295491928080f4140800000000000000
+      internalID: 4705988966767740306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 281
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4e4213760246c0800000000000000
+      internalID: -4160756014438789330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 251
+        width: 484
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289fa30648579170800000000000000
+      internalID: 8185107905501960224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 221
+        width: 167
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adacff04f6012090800000000000000
+      internalID: -8061154212706472544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 220
+        width: 85
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ded9d8822a617c0800000000000000
+      internalID: -4100912115615929077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 221
+        width: 166
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b950b0572181f81f0800000000000000
+      internalID: -1040586521347160677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 191
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740452fa2650ec90800000000000000
+      internalID: -7142614266555399055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 190
+        width: 414
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f74b49b32856010800000000000000
+      internalID: 1181493669664161539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 192
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf521823d9d50c10800000000000000
+      internalID: 2019259508879155133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 164
+        width: 480
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542eaecb5279b31e0800000000000000
+      internalID: -2217012203210743227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e63392e6ad2800800000000000000
+      internalID: 589310618318072205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 70
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74070c1a56e099250800000000000000
+      internalID: 5951804212215050311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 69
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f30ef24aa70540800000000000000
+      internalID: 4974131518160237654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 70
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794dee78fbeea97c0800000000000000
+      internalID: -4063673207361710953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 71
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d1776b9f1e75b0800000000000000
+      internalID: -5368818953463147297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 70
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45600a70e861d2670800000000000000
+      internalID: 8515487269696570964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3829c9ff82fa2c00800000000000000
+      internalID: 876779777661937722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49239e50448761f00800000000000000
+      internalID: 1087188593608831636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e94e7aea3634c0800000000000000
+      internalID: -4308191214717770265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ece16cf38d96d0800000000000000
+      internalID: -2982082258251489082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac328ccfb2dbd40800000000000000
+      internalID: 5601681876208306868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcaaa16467f2acc0800000000000000
+      internalID: -3701123933237760774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084ec8127a11f810800000000000000
+      internalID: 1797246803642304527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c79f1751736840800000000000000
+      internalID: 5216137412431300781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9cdd90c9fff4770800000000000000
+      internalID: 8597371259319077297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunsetLogo_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 13
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c9507c6e9db110800000000000000
+      internalID: 1278352057821677676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SunsetLogo_0: -9203354497160665542
+      SunsetLogo_1: -3421529817544919147
+      SunsetLogo_10: -4100912115615929077
+      SunsetLogo_11: -1040586521347160677
+      SunsetLogo_12: -7142614266555399055
+      SunsetLogo_13: 1181493669664161539
+      SunsetLogo_14: 2019259508879155133
+      SunsetLogo_15: -2217012203210743227
+      SunsetLogo_16: 589310618318072205
+      SunsetLogo_17: 5951804212215050311
+      SunsetLogo_18: 4974131518160237654
+      SunsetLogo_19: -4063673207361710953
+      SunsetLogo_2: 95708371450476829
+      SunsetLogo_20: -5368818953463147297
+      SunsetLogo_21: 8515487269696570964
+      SunsetLogo_22: 876779777661937722
+      SunsetLogo_23: 1087188593608831636
+      SunsetLogo_24: -4308191214717770265
+      SunsetLogo_25: -2982082258251489082
+      SunsetLogo_26: 5601681876208306868
+      SunsetLogo_27: -3701123933237760774
+      SunsetLogo_28: 1797246803642304527
+      SunsetLogo_29: 5216137412431300781
+      SunsetLogo_3: 170442357537519470
+      SunsetLogo_30: 8597371259319077297
+      SunsetLogo_31: 1278352057821677676
+      SunsetLogo_4: -8154272133964501013
+      SunsetLogo_5: 1425787147754739644
+      SunsetLogo_6: 4705988966767740306
+      SunsetLogo_7: -4160756014438789330
+      SunsetLogo_8: 8185107905501960224
+      SunsetLogo_9: -8061154212706472544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

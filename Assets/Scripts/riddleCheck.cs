@@ -35,6 +35,11 @@ public class RiddleManager : MonoBehaviour
     private int abilityCyclesLeft;
     private RandomSentenceManager randomSentenceManager;
 
+    public AudioSource audioSource;
+    public AudioClip wisdomReveal;
+    public AudioClip warReveal;
+    public AudioClip wealthReveal;
+
     void Start()
     {
         cycleLeftButton.onClick.AddListener(OnCycleLeftClicked);
@@ -135,6 +140,35 @@ public class RiddleManager : MonoBehaviour
 
     string GetAbilityDescription(string role, string god)
     {
+
+
+
+        if (audioSource.isPlaying) {
+            audioSource.Stop();
+        }
+
+        switch (currentGod)
+        {
+            case "God of Wisdom":
+                audioSource.clip = wisdomReveal;
+                break;
+            case "God of War":
+                audioSource.clip = warReveal;
+                break;
+            case "God of Wealth":
+                audioSource.clip = wealthReveal;
+                break;
+            default:
+                Debug.LogWarning("Unknown God: " + currentGod);
+                break;
+        }
+
+        audioSource.loop = true;
+
+        audioSource.Play();
+
+
+
         switch (role)
         {
             case "Warrior":
@@ -146,7 +180,7 @@ public class RiddleManager : MonoBehaviour
             case "Magician":
                 if (god == "God of Wisdom") return "Overload:\nWhen doing a magic combination, double the imbue effect of one of the magic used in the combination.";
                 if (god == "God of War") return "Overcharge:\nWhen using a magic by itself, double its effect.";
-                if (god == "God of Wealth") return "Golem Construct:\nOnce per turn, you may discard an Item card to summon a Golem, represented by a token/marker, that has the following effect:\nThey have 1 speed and you move them during your turn. When they come in contact with a player, the golem deals 3 to every player in that tile. They persists even when awakening has ended.";
+                if (god == "God of Wealth") return "Golem Construct:\nOnce per turn, you may discard an Item card to summon a Golem, represented by a token/marker, that has the following effect:\nThey have 1 speed and you move them during your turn. When they come in contact with a player, the golem deals 2 to every player in that tile. They persists even when awakening has ended.";
                 break;
 
             case "Adventurer":
@@ -160,6 +194,11 @@ public class RiddleManager : MonoBehaviour
                 if (god == "God of War") return "Exhaust:\nIncrease the damage of an imbued attack by half of the amount of Physical Resources used rounded up.";
                 if (god == "God of Wealth") return "Transmute:\nYou may use Item Cards as a substitute for a single Physical or Magic Resource";
                 break;
+            case "Warden":
+                if (god == "God of Widsom") return "";
+                if (god == "God of War") return "";
+                if (god == "God of Wealth") return "";
+                break; 
         }
 
         return "Unknown Ability";
